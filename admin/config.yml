@@ -122,8 +122,8 @@ collections:
               widget: "hidden"
               default: "clients"
 
-            - label: "Description"
-              name: "description"
+            - label: "Content"
+              name: "body"
               widget: "markdown"
 
         - label : "Home Page"
