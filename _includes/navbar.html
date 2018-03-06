@@ -22,15 +22,15 @@
 					<a class="navbar-item{{ class }}" href="{{ link.url }}">
 						{{ link.title }}
 					</a>
-					<span class="navbar-item">
-						<a href="mailto:{{ site.data.settings.contactEmail | encode_email }}" class="button is-{{ site.data.settings.color }} is-inverted">
-							<span class="icon">
-								<i class="fas fa-envelope"></i>
-							</span>
-							<span>Contact</span>
-						</a>
-					</span>
 				{% endfor %}
+				<span class="navbar-item">
+					<a href="mailto:{{ site.data.settings.contactEmail | encode_email }}" class="button is-{{ site.data.settings.color }} is-inverted">
+						<span class="icon">
+							<i class="fas fa-envelope"></i>
+						</span>
+						<span>Contact</span>
+					</a>
+				</span>
 			</div>
 		</div>
 	</div>
