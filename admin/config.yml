@@ -97,10 +97,12 @@ collections:
               default: "projects"
 
             - label: "Project Rows"
-              name: "row"
+              label_singular: "Row"
+              name: "rows"
               widget: "list"
               fields:
                 - label: "Projects"
+                  label_singular: "Project"
                   name: "projects"
                   widget: "list"
                   fields:
