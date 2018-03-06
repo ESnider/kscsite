@@ -22,12 +22,21 @@
 	<section class="hero is-{{ page.aboutMe.color }} section" id="aboutMe">
 		<div class="hero-body">
 			<div class="container">
-				<h1 class="title">
-					About me
-				</h1>
-				<h2 class="subtitle">
-					{{ page.aboutMe.text | markdownify }}
-				</h2>
+				<div class="media">
+					<div class="media-left">
+						<figure class="image">
+							<img src="{{ site.data.settings.picture }}" alt="Kelly Snider">
+						</figure>
+					</div>
+					<div class="media-content">
+						<h1 class="title">
+							About me
+						</h1>
+						<h2 class="subtitle">
+							{{ page.aboutMe.text | markdownify }}
+						</h2>
+					</div>
+				</div>
 			</div>
 		</div>
 	</section>
