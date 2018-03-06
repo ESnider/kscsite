@@ -1,6 +1,6 @@
 backend:
   name: "git-gateway"
-media_folder: "/assets/images"
+media_folder: "/assets"
 collections:
   #
   # Settings
