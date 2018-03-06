@@ -141,14 +141,19 @@ collections:
               name: "title"
               widget: "string"
 
-            # Mission statement
-            - label: "Mission Statement"
-              name: "missionStatement"
+            # Subtitle  
+            - label: "Subtitle"
+              name: "subtitle"
+              widget: "string"
+
+            # About me
+            - label: "About me"
+              name: "aboutMe"
               widget: "object"
               fields:
                 - label: "Text"
                   name: "text"
-                  widget: "string"
+                  widget: "markdown"
 
                 - label: "Color"
                   name: "color"
@@ -162,50 +167,3 @@ collections:
                     - { label: "Cyan", value: "info" }
                     - { label: "Green", value: "success" }
                     - { label: "Yellow", value: "warning" }
-
-            # Subtitle  
-            - label: "Subtitle"
-              name: "subtitle"
-              widget: "string"
-
-            # Events
-            - label: "Events"
-              name: "events"
-              label_singular: "Event"
-              widget: "list"
-              required: false
-              fields:
-                - label: "Name"
-                  name: "name"
-                  widget: "string"
-
-                - label: "Time"
-                  name: "time"
-                  widget: "string"
-
-                - label: "Description (optional)"
-                  name: "description"
-                  widget: "markdown"
-
-                - label: "Image (optional)"
-                  name: "image"
-                  widget: "image"
-                  required: false
-
-            # Board members
-            - label: "Board Members"
-              name: "boardMembers"
-              label_singular: "Board Member"
-              widget: "list"
-              fields:
-                - label: "Role"
-                  name: "role"
-                  widget: "string"
-
-                - label: "Name"
-                  name: "name"
-                  widget: "string"
-
-                - label: "Email"
-                  name: "email"
-                  widget: "string"
