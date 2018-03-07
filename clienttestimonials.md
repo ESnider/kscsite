@@ -1,5 +1,5 @@
 ---
-title: Clients
+title: Client Testimonials
 layout: clients
 ---
 **Brent Lower**

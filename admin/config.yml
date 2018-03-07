@@ -114,15 +114,15 @@ collections:
                       name: "description"
                       widget: "markdown"
 
-        # Clients
-        - label: "Clients"
-          name: "clients"
-          file: "clients.md"
+        # Client Testimonials
+        - label: "Client Testimonials"
+          name: "clienttestimonials"
+          file: "clienttestimonials.md"
           fields:
             - label: "Title"
               name: "title"
               widget: "string"
-              default: "Clients"
+              default: "Client Testimonials"
 
             - label: "Layout"
               name: "layout"
