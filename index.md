@@ -13,7 +13,8 @@ aboutMe:
     table, and has informed all my work on behalf of developers and property
     owners.
 
-     
+
+
 
     I am an excellent team-builder and manager with years of experience
     overseeing complex planning and entitlement processes in many jurisdictions.
