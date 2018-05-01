@@ -17,15 +17,14 @@ rows:
       - description: >-
           Worked full-time in-house for a family office that needed major
           organizational attention. Created a new LLC, oversaw re-branding and
-          major marketing roll-out (see
-          [www.LosAltosCommunityInvestments.com](www.LosAltosCommunityInvestments.com));
-          audited portfolio and created an asset managerrole and hired for it;
-          created accountingand P&L standards for $35M retail and
-          commercialportfolio; assembled a 1.2-acre development site for
-          office/residential redevelopment.LACI work includedorganizational,
-          entitlement, business, and community relations advising on a weekly
-          basis, and as Owner’s Rep to the commercial project which was managed
-          by SRGNC.
+          major marketing roll-out ([see their
+          website](http://www.losaltoscommunityinvestments.com)); audited
+          portfolio and created an asset managerrole and hired for it; created
+          accountingand P&L standards for $35M retail and commercialportfolio;
+          assembled a 1.2-acre development site for office/residential
+          redevelopment.LACI work includedorganizational, entitlement, business,
+          and community relations advising on a weekly basis, and as Owner’s Rep
+          to the commercial project which was managed by SRGNC.
         name: Los Altos Community Investments - LACI (2015-2017)
 ---
 
