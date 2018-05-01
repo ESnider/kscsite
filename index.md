@@ -11,8 +11,9 @@ aboutMe:
     design. My experience in city planning, infill redevelopment, and many years
     as a private developer gives me a unique perspective from both sides of the
     table, and has informed all my work on behalf of developers and property
-    owners. 
+    owners.
 
+     
 
     I am an excellent team-builder and manager with years of experience
     overseeing complex planning and entitlement processes in many jurisdictions.
