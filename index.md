@@ -16,6 +16,7 @@ aboutMe:
 
 
 
+
     I am an excellent team-builder and manager with years of experience
     overseeing complex planning and entitlement processes in many jurisdictions.
     I have achieved a high success rate in designing, managing, and constructing
