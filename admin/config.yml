@@ -78,7 +78,7 @@ collections:
   - name: "pages"
     label: "Pages"
     editor:
-      preview: false
+      preview: true
     delete: false
     files:
         # Featured projects
