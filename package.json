@@ -1,0 +1,16 @@
+{
+  "author": "Jonah Snider <me@jonahsnider.ninja> (https://jonahsnider.ninja)",
+  "description": "Personal portfolio",
+  "devDependencies": {
+    "parcel": "^1.10.2"
+  },
+  "name": "kscsite",
+  "repository": "PizzaFox/kscsite",
+  "scripts": {
+    "build": "parcel build *.html --public-url https://kellysniderconsulting.com/ --experimental-scope-hoisting"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
